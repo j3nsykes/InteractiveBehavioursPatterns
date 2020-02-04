@@ -3,7 +3,7 @@ visual teaching examples for interactive play
 
 ## Workshop Links
 
-### - [Button](https://editor.p5js.org/jen_GSA/full/m_YW3iZ7){:target="_blank"}
+### - [Button](https://editor.p5js.org/jen_GSA/full/m_YW3iZ7)
 ### -[Mouse | Handle](https://editor.p5js.org/jen_GSA/present/rop9Pq8q7)
 ### -[Sensors](https://editor.p5js.org/jen_GSA/full/5e8YELuO)
 ### -[Distance](https://editor.p5js.org/jen_GSA/present/TlLRXQmyk)
